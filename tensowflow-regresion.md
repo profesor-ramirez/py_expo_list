@@ -1,4 +1,4 @@
-# Exposición sobre TensorFlow, Regresión Lineal y Regresión Logística en Python
+# Exposición sobre TensorFlow, Regresión Lineal
 
 ## 1. Introducción a TensorFlow
    - **¿Qué es TensorFlow?**  
